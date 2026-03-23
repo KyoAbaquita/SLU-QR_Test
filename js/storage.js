@@ -1,5 +1,5 @@
 // ============================================================
-//  storage.js — API-backed storage (MySQL via server.js)
+//  storage.js — API-backed storage (Supabase via server.js)
 //  Falls back to localStorage when the server is unreachable
 // ============================================================
 
